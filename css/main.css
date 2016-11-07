@@ -1,1 +1,10 @@
-/* Inserta tu código aqui */
+div{
+    position: absolute;
+    display: inline;
+    }
+
+img{
+    
+    background-blend-mode:soft-light;
+}
+
